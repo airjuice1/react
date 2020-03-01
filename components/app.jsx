@@ -1,8 +1,8 @@
 import React, { Fragment } from 'react';
-import Test from '../container/test';
+import Test from '../containers/test';
 
 export default ({}) => (
 	<Fragment>
-		<Test></Test>
+		<Test />
 	</Fragment>
 );
